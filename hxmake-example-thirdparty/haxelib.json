@@ -1,0 +1,6 @@
+{
+	"name": "hxmake-example-thirdparty",
+	"classPath": "src",
+	"description": "hxmake-examples: external library without make module inside",
+	"version": "0.0.1"
+}

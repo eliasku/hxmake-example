@@ -1,0 +1,9 @@
+{
+	"name": "hxmake-example-mylib",
+	"classPath": "src",
+	"description": "",
+	"version": "0.0.1",
+	"dependencies": {
+		"hxmake-example-thirdparty": ""
+	}
+}
